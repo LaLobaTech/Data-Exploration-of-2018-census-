@@ -9,10 +9,4 @@ Interior murals → $500/unit
 Exterior murals → $750/unit
 
 Calculates:
-Revenue by service category
-
-Total projected revenue
-
-Performs comparative service distribution analysis using conditional logic
-
-Outputs formatted business insights to the console
+Revenue by service category, Total projected revenue, Performs comparative service distribution analysis using conditional logic, Outputs formatted business insights to the console
