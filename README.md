@@ -2,6 +2,13 @@ Marshalls Revenue Forecasting Application
 Overview:
 Built a C# console application that simulates revenue forecasting for a service-based business. The application transforms operational job volume inputs into projected financial outputs using structured pricing logic and conditional analysis.
 
+Purpose? 
+This project demonstrates the ability to:
+Translate business requirements into functional code
+Implement pricing and revenue logic programmatically
+Structure clean, readable C# applications
+
+Apply analytical thinking to operational forecasting scenarios
 Key Functionality:
 Captures projected interior and exterior service volume via console input
 Implements pricing model:
@@ -25,3 +32,5 @@ Console I/O handling
 Control flow (if/else conditions)
 Arithmetic computation and variable management
 Basic business logic modeling
+
+
