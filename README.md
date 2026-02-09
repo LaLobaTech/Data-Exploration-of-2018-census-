@@ -8,9 +8,9 @@ Implements pricing model:
 Interior murals → $500/unit
 Exterior murals → $750/unit
 
-How It Works
+How It Works? 
 User inputs the number of scheduled interior and exterior murals.
-Program computes revenue per category.
+Program computes revenue per category. 
 Outputs total revenue and indicates which service type has higher volume.
 
 Calculates:
